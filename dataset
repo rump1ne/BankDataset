@@ -1,4 +1,4 @@
-import print  # Импортируем модуль pprint для красивого вывода данных
+import pprint  # Импортируем модуль pprint для красивого вывода данных
 import numpy as np  # Импортируем модуль numpy для работы с массивами
 import pandas as pd  # Импортируем модуль pandas для работы с таблицами данных
 
